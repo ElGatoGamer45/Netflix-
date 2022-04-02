@@ -1,0 +1,109 @@
+
+.contenedor{
+    display: flex;
+    background-color: rgb(18, 18, 18);
+    flex-flow: row;
+    width: 99.9%;
+    height: 737px;
+    align-items: center;
+    }
+
+    body {
+        background: rgb(18, 18, 18);
+        align-items: center;
+    }
+
+    .contenedor button {
+        background-color: rgb(29, 29, 29);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 2px solid black;
+    cursor: pointer;
+    
+    }
+
+    .perfil1{
+        background-image: url(per.PNG);
+        background-size: 100% 100%;
+        border-radius: 7px;
+        border-style: groove;
+
+        
+    }
+
+    .perfil2{
+        background-image: url(am.png);
+        background-size: 100% 100%;
+        border-radius: 7px;
+        border-style: groove;
+    }
+
+    .perfil3{
+        background-image: url(roj.PNG);
+        background-size: 100% 100%;
+        border-radius: 7px;
+        border-style: groove;
+        
+    }
+
+    .perfil4{
+        background-image: url(sd.PNG);
+        background-size: 100% 100%;
+        border-radius: 7px;
+        border-style: groove;
+        
+    }
+
+    .perfil5{
+        background-image: url(sdf.PNG);
+        background-size: 100% 100%;
+        border-radius: 7px;
+        border-style: groove;
+        
+    }
+
+    .adminstralosperfiles {
+        background-image: url();
+        background-size: 100% 100%;
+        cursor: pointer;
+  }
+
+  ::-webkit-scrollbar {
+    background: rgb(18, 18, 18);
+      border-radius: 100px;
+nav-down: none;
+  }
+
+  ::-webkit-scrollbar-button {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+  }
+
+  ::-webkit-scrollbar-corner {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar-track-piece {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+ 
+::-webkit-search-cancel-button {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}

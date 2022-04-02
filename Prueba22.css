@@ -1,0 +1,54 @@
+body {
+    background: rgb(0, 0, 0);
+    align-items: center;
+}
+::-webkit-scrollbar {
+    background: rgb(18, 18, 18);
+      border-radius: 100px;
+nav-down: none;
+  }
+
+  ::-webkit-scrollbar-button {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+  }
+
+  ::-webkit-scrollbar-corner {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar-track-piece {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+ 
+::-webkit-search-cancel-button {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+
+
+video {
+    background-color: none;
+    transition: background-color .5s;
+    border-style: solid;
+    }
+    
+    video:hover {
+        width: 940px;
+        height: 500px;
+        border-radius: 10px;
+        border-width: 100px;
+        background: white;
+    }

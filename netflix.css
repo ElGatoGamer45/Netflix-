@@ -1,0 +1,112 @@
+
+.contenedor{
+    display: flex;
+    background-color: rgb(18, 18, 18);
+    flex-flow: row;
+    width: 99.9%;
+    height: 737px;
+    align-items: center;
+    }
+
+    body {
+        background: rgb(18, 18, 18);
+        align-items: center;
+    }
+
+    .contenedor button {
+        background-color: rgb(29, 29, 29);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 2px solid black;
+    cursor: pointer;
+    
+    }
+
+    .perfil1{
+        background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIHkfxZkH5gO2vLRY_J3aAs5oGVCXEMSKQuvx3LwSFYKQN8k4L);
+        background-size: 100% 100%;
+        border-color: gray;
+        border-radius: 7px;
+        border-style: groove;
+
+        
+    }
+
+    .perfil2{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTG7GrxAnXR6qzSduxgin_SRIoEcZGkgHpP-b91Bj-jwJSK_6);
+        background-size: 100% 100%;
+        border-color: gray;
+        border-radius: 7px;
+        border-style: groove;
+    }
+
+    .perfil3{
+        background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcwQzuoEvpYxGDw67cWF7Dj19SQ3siAwoQI9WeCECyeS1j36-S);
+        background-size: 100% 100%;
+        border-color: gray;
+        border-radius: 7px;
+        border-style: groove;
+        
+    }
+
+    .perfil4{
+        background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXH0sx71JRetLBoabGPn7PYZVHo96Y2Qx0EkwyIi-JaJwznnm_);
+        background-size: 100% 100%;
+        border-color: gray;
+        border-radius: 7px;
+        border-style: groove;
+        
+    }
+
+    .perfil5{
+        background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqUfeZeJNQ077io_XRwyc81c-_h0q409wyfd-VP_BtdMU6QX3m);
+        background-size: 100% 100%;
+        border-color: gray;
+        border-radius: 7px;
+        border-style: groove;
+        
+    }
+
+    
+
+  ::-webkit-scrollbar {
+    background: rgb(18, 18, 18);
+      border-radius: 100px;
+nav-down: none;
+  }
+
+  ::-webkit-scrollbar-button {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+  }
+
+  ::-webkit-scrollbar-corner {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar-track-piece {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+ 
+::-webkit-search-cancel-button {
+    background: rgb(18, 18, 18);
+    border-radius: 100px;
+}
+
+
